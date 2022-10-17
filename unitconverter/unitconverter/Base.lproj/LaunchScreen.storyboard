@@ -20,12 +20,14 @@
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="redraw" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="j7m-wx-uuh">
                                 <rect key="frame" x="0.0" y="0.0" width="390" height="844"/>
                                 <color key="backgroundColor" systemColor="linkColor"/>
+                                <color key="tintColor" systemColor="linkColor"/>
                             </imageView>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="logo converter" translatesAutoresizingMaskIntoConstraints="NO" id="44s-BA-fql">
                                 <rect key="frame" x="45" y="272" width="300" height="300"/>
                             </imageView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                        <color key="backgroundColor" systemColor="linkColor"/>
                         <constraints>
                             <constraint firstItem="j7m-wx-uuh" firstAttribute="top" secondItem="Ze5-6b-2t3" secondAttribute="top" id="19D-Xq-0dZ"/>
                             <constraint firstItem="j7m-wx-uuh" firstAttribute="bottom" secondItem="Ze5-6b-2t3" secondAttribute="bottom" id="9jY-es-f5m"/>
